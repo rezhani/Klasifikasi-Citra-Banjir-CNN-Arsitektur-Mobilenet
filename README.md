@@ -5,7 +5,7 @@ Python terinstall dengan library Tensorflow, Keras, Numpy, Html2image.
 # Kedua
 Buat folder 'dataset' pada tempat yang sama dengan menyimpan program,
 lalu dalam folder 'dataset' buat lagi folder yakni 'train', 'valid', 'test'.
-Dan di dalam 'train, valid, test' buat lagi 3 folder yang sesuai dengan nama kelas yang akan kita gunakan.
+Dan untuk masing2 folder 'train', 'valid', 'test'. Buat lagi 3 folder didalamnya sesuai dengan nama kelas yang akan kita gunakan.
 Saya disini menggunakan 'Banjir', 'Tidak Banjir', 'Bermasalah'.
 # Ketiga
 melatih program dan mendapatkan file model 'modelklasifikasibanjir.h5' yang akan digunakan untuk uji program.
