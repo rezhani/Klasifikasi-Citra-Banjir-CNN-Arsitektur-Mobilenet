@@ -7,6 +7,20 @@ Buat folder 'dataset' pada tempat yang sama dengan menyimpan program,
 lalu dalam folder 'dataset' buat lagi folder yakni 'train', 'valid', 'test'.
 Dan untuk masing2 folder 'train', 'valid', 'test'. Buat lagi 3 folder didalamnya sesuai dengan nama kelas yang akan kita gunakan.
 Saya disini menggunakan 'Banjir', 'Tidak Banjir', 'Bermasalah'.
+Contoh:
+ /dataset
+  /train
+    /Banjir
+    /Tidak Banjir
+    /Bermasalah
+  /valid
+    ..
+    ..
+    ..
+  /test
+    ..
+    ..
+    ..
 # Ketiga
 melatih program dan mendapatkan file model 'modelklasifikasibanjir.h5' yang akan digunakan untuk uji program.
 # Keempat
