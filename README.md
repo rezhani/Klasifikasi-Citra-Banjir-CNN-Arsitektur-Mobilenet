@@ -8,7 +8,7 @@ lalu dalam folder 'dataset' buat lagi folder yakni 'train', 'valid', 'test'.
 Dan untuk masing2 folder 'train', 'valid', 'test'. Buat lagi 3 folder didalamnya sesuai dengan nama kelas yang akan kita gunakan.
 Saya disini menggunakan 'Banjir', 'Tidak Banjir', 'Bermasalah'.
 Contoh:
- /dataset
+\n /dataset
   /train
     /Banjir
     /Tidak Banjir
