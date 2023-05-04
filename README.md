@@ -2,7 +2,7 @@
 Implementasi deep learning dan cnn untuk klasifikasi citra 3 kelas dengan custom dataset arsitektur mobilenet. 
 
 # Hal pertama yang diperlukan adalah
-Nemiliki program IDE seperti jupyter notebook atau spyder atau yang lain tergantung kenyamanan masing2
+Memiliki program IDE seperti jupyter notebook atau spyder atau yang lain tergantung kenyamanan masing2
 Python terinstall dengan library Tensorflow, Keras, Numpy, Html2image.
 # Kedua
 Buat folder 'dataset' pada tempat yang sama dengan menyimpan program,
