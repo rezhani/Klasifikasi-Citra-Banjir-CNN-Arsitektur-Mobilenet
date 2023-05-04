@@ -13,4 +13,4 @@ Melatih program dengan 'latih3class(versi pendek).py' dan mendapatkan file model
 # Keempat
 Menguji program dengan 'uji3class(versi pendek).py' menggunakan model sebelumnya. Dan Melihat akurasi setiap kelas label yang diprediksi pada citra scraping CCTV.
 # Kelima
-Tahap ini melakukan distribusi agar bisa digunakan Enduser. Saya sendiri memilih menyalurkan program ini lewat Telegram Bot yang bisa kaliat lihat di [sini](t.me/deteksibanjirbot). Sebenernya kepikiran juga sih menggunakan web framework seperti flask ataupun streamlit. Nanti liat deh.
+Tahap ini melakukan distribusi agar bisa digunakan Enduser. Saya sendiri memilih menyalurkan program ini lewat Telegram Bot yang bisa kaliat lihat di [sini](https://t.me/deteksibanjirbot). Sebenernya kepikiran juga sih menggunakan web framework seperti flask ataupun streamlit. Nanti liat deh.
